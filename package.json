@@ -10,7 +10,8 @@
     "test": "tap --check-coverage --100 test/*.js"
   },
   "keywords": [],
-  "author": "",
+  "repository": "https://github.com/cttttt/tail-stream.git"
+  "author": "Chris Taylor <chris@twentytwotabs.com>",
   "license": "ISC",
   "dependencies": {
     "through2": "^2.0.3"
