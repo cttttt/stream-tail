@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap --check-coverage --100 test/*.js"
   },
   "keywords": [],
   "author": "",
