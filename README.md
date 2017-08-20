@@ -1,8 +1,8 @@
-# tail-stream
+# stream-tail
 
 Emits the last few chunks of input
 
-[![Build Status](https://travis-ci.org/cttttt/tail-stream.svg?branch=master)](https://travis-ci.org/cttttt/tail-stream)
+[![Build Status](https://travis-ci.org/cttttt/stream-tail.svg?branch=master)](https://travis-ci.org/cttttt/stream-tail)
 
 # Example
 
@@ -10,7 +10,7 @@ Emits the last few chunks of input
 const
     split2 = require("split2"),
     join = require("join-stream"),
-    tail = require("./");
+    tail = require("stream-tail");
 
 // Simple implementation of tail(1)
 
@@ -36,7 +36,7 @@ Return an object stream that emits no more than the final `count` `'data'` chunk
 # Install
 
 ```bash
-npm install tail-stream
+npm install stream-tail
 ```
 
 # License

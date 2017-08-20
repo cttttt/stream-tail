@@ -1,8 +1,8 @@
 {
-  "name": "tail-stream",
+  "name": "stream-tail",
   "version": "1.0.0",
   "description": "",
-  "main": "tail-stream.js",
+  "main": "stream-tail.js",
   "directories": {
     "test": "test"
   },
@@ -10,7 +10,7 @@
     "test": "tap --check-coverage --100 test/*.js"
   },
   "keywords": [ "tail", "stream", "ReadableStream", "WritableStream" ],
-  "repository": "https://github.com/cttttt/tail-stream.git",
+  "repository": "https://github.com/cttttt/stream-tail.git",
   "author": "Chris Taylor <chris@twentytwotabs.com>",
   "license": "MIT",
   "dependencies": {

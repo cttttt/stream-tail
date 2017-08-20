@@ -1,6 +1,6 @@
 const
     tap = require("tap"),
-    tailStream = require("../tail-stream");
+    tailStream = require("../stream-tail");
 
 const stream = tailStream(20);
 
