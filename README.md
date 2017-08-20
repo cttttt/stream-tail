@@ -2,6 +2,8 @@
 
 Emits the last few chunks of input
 
+[![Build Status](https://travis-ci.org/cttttt/tail-stream.svg?branch=master)](https://travis-ci.org/cttttt/tail-stream)
+
 # Example
 
 ```javascript
