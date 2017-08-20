@@ -1,7 +1,7 @@
 {
   "name": "stream-tail",
   "version": "1.0.0",
-  "description": "",
+  "description": "Through stream that emits the last few chunks of input",
   "main": "stream-tail.js",
   "directories": {
     "test": "test"
