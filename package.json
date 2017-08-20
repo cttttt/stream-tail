@@ -1,0 +1,22 @@
+{
+  "name": "tail-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tail-stream.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "tap": "^10.7.2"
+  }
+}
