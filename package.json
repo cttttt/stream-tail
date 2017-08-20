@@ -12,7 +12,7 @@
   "keywords": [ "tail", "stream", "ReadableStream", "WritableStream" ],
   "repository": "https://github.com/cttttt/tail-stream.git"
   "author": "Chris Taylor <chris@twentytwotabs.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "through2": "^2.0.3"
   },
