@@ -7,3 +7,5 @@ node_js:
 script:
     - npm test
     - node_modules/.bin/eslint .
+    - git fetch
+    - git diff origin/master
